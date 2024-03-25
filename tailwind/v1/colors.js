@@ -1,4 +1,4 @@
-module.export = {
+module.exports = {
   transparent: 'transparent',
   current: 'currentColor',
   // Colores de marca

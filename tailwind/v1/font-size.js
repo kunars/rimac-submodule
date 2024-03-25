@@ -1,4 +1,4 @@
-module.export = {
+module.exports = {
   'title-40': [
     '2.5rem',
     {

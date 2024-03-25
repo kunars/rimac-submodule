@@ -1,4 +1,4 @@
-module.export = {
+module.exports = {
   blur: {
     background: {
       subtle: '5px',
