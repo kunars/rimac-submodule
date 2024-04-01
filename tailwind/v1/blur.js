@@ -1,14 +1,8 @@
 module.exports = {
-  blur: {
-    background: {
-      subtle: '5px',
-      moderate: '8px'
-    },
-    layer: {
-      subtle: '60px',
-      moderate: '120px',
-      medium: '160px',
-      strong: '210px'
-    }
-  }
+  'container-subtle': '5px',
+  'container-moderate': '8px',
+  'blurasset-subtle': '60px',
+  'blurasset-moderate': '120px',
+  'blurasset-medium': '160px',
+  'blurasset-strong': '210px'
 }
