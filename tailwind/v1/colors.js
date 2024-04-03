@@ -1,15 +1,14 @@
 module.exports = {
   transparent: 'transparent',
   current: 'currentColor',
-  // Colores de marca
   brand: {
     10: '#FEE6EA',
+    30: '#FA6981',
     40: '#FF495F',
     50: '#F81E42',
     60: '#F7052D',
     80: '#DE213B',
   },
-  // Colores neutrales
   neutral: {
     0: '#ffffff',
     10: '#F8F9FF',
@@ -23,7 +22,6 @@ module.exports = {
     90: '#13172C',
     100: '#03050F',
   },
-  // Colores de acento
   accent: {
     20: '#94AFFF',
     40: '#5C69FF',
@@ -31,26 +29,27 @@ module.exports = {
     80: '#3700B8',
     90: '#1700AD',
   },
-  // Colores de éxito
+  effect: {
+    60: '#1433cc',
+    80: '#0D1985',
+    100: '#09081F',
+  },
   success: {
     30: '#BBF5C1',
     60: '#46EB62',
     80: '#2A8D3B',
     100: '#175B22',
   },
-  // Colores de advertencia
   warning: {
     30: '#FDE8AF',
     60: '#FFD11A',
     100: '#A44100',
   },
-  // Colores críticos
   critical: {
     20: '#F9D0D2',
     60: '#EC0B35',
     90: '#A70825',
   },
-  // Otros colores
   aqua: {
     60: '#00F4E2',
     100: '#18A68C',
@@ -91,6 +90,6 @@ module.exports = {
     60: '#FF6200',
   },
   grape: {
-    60: '#B00968',
+    60: '#D41983',
   },
 }

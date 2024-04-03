@@ -1,3 +1,27 @@
 module.exports = {
-  'light-primary': 'linear-gradient(86.01deg, #00F4E2 0%, #00FF7F 100%)'
+  'interactive-hover-02': 'linear-gradient(90deg, #B400FF 0%, #621FFF 100%)',
+  'highlight': 'linear-gradient(45deg, #F81E42 0%, #FA6981 100%)',
+  'highlight-default': 'linear-gradient(270deg, #D41983 0%, #F7052D 15%, #F7052D 85%, #FF6200 100%)',
+  'highlight-short': 'linear-gradient(90deg, #FF6200 1.19%, #F7052D 17.99%, #F7052D 83.2%, #D41983 100%)',
+  'highlight-expanded': 'linear-gradient(107deg, #FF6200 9.41%, #F7052D 31.69%, #F7052D 62.43%, #D41983 86.25%)',
+  'highlight-discount': 'linear-gradient(220deg, #F81E42 52.54%, #FF6200 83.71%)',
+  'gradient-primary': 'linear-gradient(86.01deg, #FD6201 0%, #FF00B1 100%)',
+  'gradient-secondary': 'linear-gradient(86.01deg, #00F4E2 0%, #00FF7F 100%)',
+  'gradient-tertiary': 'linear-gradient(86.01deg, #FF00B1 0%, #B400FF 100%)',
+  'gradient-estarbien': 'linear-gradient(264.31deg, #FFFF96 9.71%, #00F4E2 100%)',
+  'nav-default': 'linear-gradient(180deg, #F8F9FF 0%, rgba(#F8F9FF, 0.8) 100%)',
+  'nav-scroll': 'linear-gradient(180deg, #ffffff 0%, rgba(#ffffff, 0.8) 100%)',
+  'fixed': 'linear-gradient(180deg, rgba(#ffffff, 0) 0%, #ffffff 100%)',
+  'navbar-app': 'linear-gradient(180deg, rgba(#ffffff, 0.6) 0%, #ffffff 100%)',
+  'cyber-default': 'linear-gradient(270deg, #621FFF 6.51%, #D41983 26.51%, #F7052D 46.5%, #F7052D 99.99%)',
+  'promotional-default': 'linear-gradient(90deg, #F7052D 0%, #F7052D 69%, #D41983 100%)',
+  'promotional-primary': 'linear-gradient(88deg, #F7052D 0%, #D41983 100%)',
+  'cyber-primary': 'linear-gradient(90deg, #621FFF 0%, #D41983 57.09%, #F7052D 99.74%)',
+  'cyber-discount': 'linear-gradient(213deg, #F7052D 5.99%, #D41983 42.37%, #621FFF 82.94%)',
+  'vertical-subtle': 'linear-gradient(180deg, rgba(#09081F, 0) 42.83%, rgba(#09081F, 0.24) 57.89%, rgba(#09081F, 0.759998) 77.3%, rgba(#09081F, 0.88) 100%, rgba(#09081F, 0.88) 100%)',
+  'vertical-subtle-hover': 'linear-gradient(180deg, rgba(#09081F, 0.13) 0%, rgba(#09081F, 0.42) 39.8%, rgba(#09081F, 0.759998) 60.3%, rgba(#09081F, 0.88) 100%)',
+  'vertical-moderate': 'linear-gradient(180deg, rgba(#09081F, 0) 28.78%, rgba(#09081F, 0.35) 55.62%, rgba(#09081F, 0.759998) 78.74%, rgba(#09081F, 0.88) 100%)',
+  'vertical-moderate-hover': 'linear-gradient(180deg, rgba(#09081F, 0.24) 0%, rgba(#09081F, 0.48) 33.29%, rgba(#09081F, 0.759998) 66.65%, rgba(#09081F, 0.88) 100%)',
+  'horizontal': 'linear-gradient(270deg, rgba(#09081F, 0.16) 0%, rgba(#09081F, 0.48) 33.29%, rgba(#09081F, 0.759998) 66.65%, rgba(#09081F, 0.88) 100%)',
+  'shimmer-default': 'linear-gradient(90deg, rgba(#1433cc, 0.12) 11.36%, rgba(#1433cc, 0.24) 40.91%, rgba(#1433cc, 0.12) 65.1%)'
 }
